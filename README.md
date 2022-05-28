@@ -1,2 +1,0 @@
-# akashic-engine-devcontainer
-akashic-engine用のdevcontainerを置く予定のリポジトリ
